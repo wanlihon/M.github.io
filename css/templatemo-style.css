@@ -144,8 +144,8 @@ button:focus { outline: none; }
 .cd-hero-slider li:nth-of-type(2) { background-image: url(../img/tm-bg-2.jpeg); }
 .cd-hero-slider li:nth-of-type(4) { background-image: url(../img/tm-bg-4.jpeg); }
 .cd-hero-slider li:nth-of-type(2) { background-image: url(../img/tm-bg-2.jpeg); }
-.cd-hero-slider li:nth-of-type(2) { background-image: url(../img/tm-bg-2.jpeg); }
-.cd-hero-slider li:nth-of-type(2) { background-image: url(../img/tm-bg-2.jpeg); }
+.cd-hero-slider li:nth-of-type(1) { background-image: url(../img/tm-bg-1.jpeg); }
+.cd-hero-slider li:nth-of-type(1) { background-image: url(../img/tm-bg-1.jpeg); }
 .cd-hero-slider li:nth-of-type(2) { background-image: url(../img/tm-bg-2.jpeg); }
 
 .tm-bg-white-translucent { background-color: rgba(255,255,255,0.8); }
